@@ -11,11 +11,13 @@
 - 한 번 스냅샷한 `스터디 참여도`는 **수정 불가**합니다. (1주차 제외)
 
 ## 스터디 참여도
+
+![Queue-ri](https://img.shields.io/badge/@Queue%2D%2Dri-333333?style=flat-square)![](https://progress-bar.dev/40/?scale=40&width=150&suffix=+solved+/+40)&nbsp;&nbsp;&nbsp;&nbsp;
+![nusuy](https://img.shields.io/badge/@nusuy-333333?style=flat-square)![](https://progress-bar.dev/14/?scale=40&width=150&suffix=+solved+/+40)</br>
+![chaeeun-Han](https://img.shields.io/badge/@chaeeun%2D%2DHan-333333?style=flat-square)![](https://progress-bar.dev/25/?scale=40&width=150&suffix=+solved+/+40)&nbsp;&nbsp;&nbsp;&nbsp;
+![hyojeongchoi](https://img.shields.io/badge/@hyojeongchoi-333333?style=flat-square)![](https://progress-bar.dev/6/?scale=40&width=150&suffix=+solved+/+40)
+
 ### 🍰 1주차
-![Queue-ri](https://img.shields.io/badge/@Queue%2D%2Dri-333333?style=flat-square)![](https://progress-bar.dev/16/?scale=16&width=150&suffix=+solved+/+16)&nbsp;&nbsp;&nbsp;&nbsp;
-![nusuy](https://img.shields.io/badge/@nusuy-333333?style=flat-square)![](https://progress-bar.dev/0/?scale=16&width=150&suffix=+solved+/+16)</br>
-![chaeeun-Han](https://img.shields.io/badge/@chaeeun%2D%2DHan-333333?style=flat-square)![](https://progress-bar.dev/9/?scale=16&width=150&suffix=+solved+/+16)&nbsp;&nbsp;&nbsp;&nbsp;
-![hyojeongchoi](https://img.shields.io/badge/@hyojeongchoi-333333?style=flat-square)![](https://progress-bar.dev/0/?scale=16&width=150&suffix=+solved+/+16)
 
 <details>
   <summary>풀이 진행도 상세</summary>
@@ -45,3 +47,44 @@
   |백준|문자열 지옥에 빠진 호석|✅| | | |
   
 </details>
+
+
+### 🍰 2주차
+
+<details>
+  <summary>풀이 진행도 상세</summary>
+  
+  ### 과제
+  |플랫폼|문제명|Queue-ri|nusuy|chaeeun-Han|hyojeongchoi|
+  |:---:|:---:|:---:|:---:|:---:|:---:|
+  |프로그래머스|타겟넘버|✅|✅|✅|✅|
+  |프로그래머스|네트워크|✅|✅|✅|✅|
+  |프로그래머스|게임 맵 최단거리|✅|✅|✅||
+  |프로그래머스|단어 변환|✅|✅|✅|✅|
+  |프로그래머스|아이템 줍기|✅|✅|||
+  |프로그래머스|여행경로|✅|✅|||
+  |프로그래머스|퍼즐 조각 채우기|✅||||
+  |백준|바이러스|✅|✅|✅|✅|
+  |백준|DFS와 BFS|✅|✅|✅||
+  |백준|트리의 부모 찾기|✅|✅|✅||
+  |백준|A → B|✅|✅|✅|✅|
+  |백준|특정 거리의 도시 찾기|✅|✅|✅|✅|
+  |백준|효율적인 해킹|✅|✅|✅||
+  |백준|미로 탐색|✅|✅|✅||
+  |백준|단지번호붙이기|✅|✅|✅||
+  |백준|쉬운 최단거리|✅||✅||
+  |백준|트리|✅||✅||
+  |백준|숫자고르기|✅||✅||
+  |백준|7569 토마토|✅||||
+  |백준|7576 토마토|✅||||
+  |백준|ABCDE|✅||||
+  |백준|트리와 쿼리|✅||||
+  |백준|공주님을 구해라!|✅||||
+
+  ### 주간 문제
+  |플랫폼|문제명|Queue-ri|nusuy|chaeeun-Han|hyojeongchoi|
+  |:---:|:---:|:---:|:---:|:---:|:---:|
+  |백준|연구소|✅| |✅| |
+  
+</details>
+
