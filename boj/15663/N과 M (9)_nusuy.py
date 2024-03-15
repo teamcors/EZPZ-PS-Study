@@ -10,7 +10,7 @@ def solution():
     visited = [False] * n
     answers = []
 
-    def permuatation(n, m, numbers, arr):
+    def permutation(n, m, numbers, arr):
         if len(arr) == m:
             answers.append(arr[:])
             return
@@ -19,11 +19,11 @@ def solution():
             if not visited[i]:
                 visited[i] = True
                 arr.append(v)
-                permuatation(n, m, numbers, arr)
+                permutation(n, m, numbers, arr)
                 visited[i] = False
                 arr.pop()
 
-    permuatation(n, m, numbers, [])
+    permutation(n, m, numbers, [])
     answers = sorted(list(set(map(tuple, answers))))
     for answer in answers:
         print(*answer)
